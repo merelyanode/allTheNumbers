@@ -1,4 +1,5 @@
 /*
+ a modification of:
 
  #myrandomnumber Tutorial
  blprnt@blprnt.com
