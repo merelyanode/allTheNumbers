@@ -70,7 +70,7 @@ public class SimpleSpreadsheetManager {
       myService.setUserCredentials(user, pass);
     } 
     catch (Exception e) {
-      println("ERROR IN AUTHENTICATION");
+      println("ERROR IN AUTHENTICATION: " + e.getMessage());
     };
 
   };
